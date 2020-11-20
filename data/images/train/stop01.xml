@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MyTest</folder>
+	<filename>stop01.jpg</filename>
+	<path>D:\Egyetem\###Msc\2. félév\Intelligens közlek rendszerek\HF 2\vitma10_HF2\MyTest\stop01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>665</width>
+		<height>503</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>14</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>110</ymin>
+			<xmax>381</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

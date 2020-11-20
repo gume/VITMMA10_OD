@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MyTest</folder>
+	<filename>slippery01.jpg</filename>
+	<path>D:\Egyetem\###Msc\2. félév\Intelligens közlek rendszerek\HF 2\vitma10_HF2\MyTest\slippery01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>82</width>
+		<height>73</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>23</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>9</ymin>
+			<xmax>63</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>

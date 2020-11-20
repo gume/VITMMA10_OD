@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MyTest</folder>
+	<filename>directions02.jpg</filename>
+	<path>D:\Egyetem\###Msc\2. félév\Intelligens közlek rendszerek\HF 2\vitma10_HF2\MyTest\directions02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>223</width>
+		<height>207</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>37</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>22</ymin>
+			<xmax>63</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

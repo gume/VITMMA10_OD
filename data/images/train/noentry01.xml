@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MyTest</folder>
+	<filename>noentry01.jpg</filename>
+	<path>D:\Egyetem\###Msc\2. félév\Intelligens közlek rendszerek\HF 2\vitma10_HF2\MyTest\noentry01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>741</width>
+		<height>663</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>17</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>572</xmin>
+			<ymin>12</ymin>
+			<xmax>732</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>
