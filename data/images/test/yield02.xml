@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MyTest</folder>
+	<filename>yield02.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/GSTRB/MyTest/yield02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>289</width>
+		<height>175</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>13</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>36</ymin>
+			<xmax>251</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

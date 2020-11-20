@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MyTest</folder>
+	<filename>stop01.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/GSTRB/MyTest/stop01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>14</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>25</ymin>
+			<xmax>208</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>
