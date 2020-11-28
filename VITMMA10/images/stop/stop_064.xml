@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>stop_064.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/stop/stop_064.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>575</xmin>
+			<ymin>16</ymin>
+			<xmax>734</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>K5PBW3.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/K5PBW3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>939</xmin>
+			<ymin>308</ymin>
+			<xmax>1124</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

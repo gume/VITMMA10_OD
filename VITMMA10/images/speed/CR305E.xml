@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>CR305E.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/CR305E.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>869</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>230</ymin>
+			<xmax>764</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+</annotation>

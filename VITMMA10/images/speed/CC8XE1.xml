@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>CC8XE1.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/CC8XE1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>953</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_80</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>692</xmin>
+			<ymin>58</ymin>
+			<xmax>1134</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

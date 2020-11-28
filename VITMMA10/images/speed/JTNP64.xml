@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>JTNP64.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/JTNP64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>256</ymin>
+			<xmax>548</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>W88X9F.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/W88X9F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>852</xmin>
+			<ymin>366</ymin>
+			<xmax>1071</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

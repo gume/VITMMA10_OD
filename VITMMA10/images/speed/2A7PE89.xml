@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>2A7PE89.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/2A7PE89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>870</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>102</ymin>
+			<xmax>498</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

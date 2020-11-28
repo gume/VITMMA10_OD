@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>AYPX2M.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/AYPX2M.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>953</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>116</ymin>
+			<xmax>1049</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

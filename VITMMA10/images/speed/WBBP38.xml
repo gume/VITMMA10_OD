@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>WBBP38.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/WBBP38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1062</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>679</xmin>
+			<ymin>98</ymin>
+			<xmax>966</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

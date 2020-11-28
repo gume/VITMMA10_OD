@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>DGM17X.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/DGM17X.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>930</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1071</xmin>
+			<ymin>512</ymin>
+			<xmax>1144</xmax>
+			<ymax>588</ymax>
+		</bndbox>
+	</object>
+</annotation>

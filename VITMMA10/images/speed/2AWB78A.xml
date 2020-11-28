@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>2AWB78A.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/2AWB78A.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>127</ymin>
+			<xmax>963</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

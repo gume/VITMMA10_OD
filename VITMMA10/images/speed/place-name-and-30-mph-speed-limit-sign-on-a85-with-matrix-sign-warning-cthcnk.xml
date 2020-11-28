@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>place-name-and-30-mph-speed-limit-sign-on-a85-with-matrix-sign-warning-cthcnk.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/place-name-and-30-mph-speed-limit-sign-on-a85-with-matrix-sign-warning-cthcnk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>57</ymin>
+			<xmax>245</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>TRJ1G4.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/TRJ1G4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>931</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>387</ymin>
+			<xmax>732</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

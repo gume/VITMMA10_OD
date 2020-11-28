@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>BRGB4G.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/BRGB4G.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>865</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>154</ymin>
+			<xmax>593</xmax>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+</annotation>

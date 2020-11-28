@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed</folder>
+	<filename>CRBF9P.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/TransferLearning/VITMMA10/images/speed/CRBF9P.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>955</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_limit_70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>924</xmin>
+			<ymin>114</ymin>
+			<xmax>1034</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>
